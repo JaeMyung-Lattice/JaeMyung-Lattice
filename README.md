@@ -1,6 +1,6 @@
 [<img src="https://capsule-render.vercel.app/api?type=waving&color=0:005682,10:80dd13,30:4575f3,75:00ff00,100:a8e4a0&height=100&section=header&text=&fontSize=0" width="100%"/>
 
-![Header](./github-header-image.png)](https://capsule-render.vercel.app/api?type=wave&height=300&color=gradient&text=JaeMyung-Lattice)
+(https://capsule-render.vercel.app/api?type=wave&height=300&color=gradient&text=JaeMyung-Lattice)
 
 <br />
 
